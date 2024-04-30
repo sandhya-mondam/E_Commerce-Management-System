@@ -8,6 +8,7 @@ Welcome to our E-commerce Management System repository! This comprehensive syste
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
+6. [Licence](#licence)
 
 ## features
 Features
